@@ -89,6 +89,45 @@ function getRandomFact() {
 
 	arr.push("25. Breathe easy. In addition to sweating through their paw pads, dogs pant to cool themselves off. A panting dog can take 300-400 breaths (compared to his regular 30-40) with very little effort. Source: Vetstreet");
 
+	arr.push("26. An adult dog has 42 teeth.");
+
+	arr.push("27. A dog’s sense of smell is more than 1 million times stronger than that of a person.");
+
+	arr.push("28. More than 1 in 3 families in the United States owns a dog.");
+
+	arr.push("29. Spaying or neutering your dog can help prevent certain types of cancer.");
+
+	arr.push("30. If never spayed or neutered, a pair of dogs can produce 66,000 puppies in 6 years.");
+
+	arr.push("31. A dog’s sense of hearing is more than 10 times more accurate than that of a person.");
+
+	arr.push("32. The average dog can run about 19 miles per hour at full speed.");
+
+	arr.push("33. Dogs are mentioned 14 times in the Bible.");
+
+	arr.push("34. A dog’s nose print is one of a kind, very similar to a person’s fingerprint.");
+
+	arr.push("35. The average body temperature for a dog is 101.2.");
+
+	arr.push("36. With an average lifespan of just over 11 years, the typical dog costs $13,500.");
+
+	arr.push("37. The only sweat glands a dog has are between its toes.");
+
+	arr.push("38. Dogs are omnivorous; they need to eat more than just meat.");
+
+	arr.push("39. Dogs have twice as many ear muscles as people.");
+
+	arr.push("40. Dogs will be submissive to anyone they feel is higher up in the pack.");
+
+	arr.push("41. People have been keeping dogs for pets for 12,000 years.");
+
+	arr.push("42. A female dog carries her puppies for about 60 days before they are born.");
+
+	arr.push("43. It is a myth dogs are color blind; they actually see color, just not as vividly as a person.");
+
+	arr.push("44. Obesity is the number-one health problem in dogs.");
+
+	arr.push("45. Seventy percent of people sign their pets name on greeting/holiday cards.");
 
 	return arr[Math.floor(Math.random()*arr.length)];
 
