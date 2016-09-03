@@ -28,4 +28,6 @@ app.listen(appEnv.port, '0.0.0.0', function() {
 });
 
 // our own code for Slack
-app.get('/dogTest', function(req, res) {res.status(200).json({});});
+app.post('/dogTest', function(req, res) {
+  res.status(200).send('woof woof!');
+});
